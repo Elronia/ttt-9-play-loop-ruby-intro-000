@@ -43,5 +43,5 @@ def play(board)
   while counter <= turns
     counter += 1
   end
-    
+
 end
